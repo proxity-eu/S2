@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "S2",
-            path: "artifacts/s2.xcframework"
+            path: "s2.xcframework"
         ),
     ]
 )
